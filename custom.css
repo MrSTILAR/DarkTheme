@@ -1,7 +1,7 @@
 body {
 font-family: Roboto, sans-serif;
 color: #8a9ba1;
-background: #171717 url(https://raw.githubusercontent.com/MrSTILAR/DarkTheme/master/limbo.jpg)
+background: #171717 url(/ext/limbo.jpg)
 }
 input, select, textarea {
 font-family: Roboto, sans-serif;
