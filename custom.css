@@ -53,9 +53,11 @@ background-color: #1e1e1ecc;
 .navigation.collapsed {
 padding-top: 0;
 }
+
 .navigation > ul > li.active > a {
 background: #000000cc;
 }
+
 .navigation li a {
 padding: 10px 35px;
 }
