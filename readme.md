@@ -5,5 +5,5 @@
 
 Код для WAN Up:
 
-   wget https://raw.githubusercontent.com/MrSTILAR/DarkTheme/master/custom.css -P /var/wwwext/
+    wget https://raw.githubusercontent.com/MrSTILAR/DarkTheme/master/custom.css -P /var/wwwext/
 
