@@ -54,7 +54,7 @@ background-color: #1e1e1ecc;
 padding-top: 0;
 }
 .navigation > ul > li.active > a {
-background: #FFFFFFcc;
+background: #000000cc;
 }
 .navigation li a {
 padding: 10px 35px;
