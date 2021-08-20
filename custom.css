@@ -29,10 +29,9 @@ background: rgba(255, 255, 255, 0.05);
 color: #fff;
 }
 .system-ui {
-color: #8a9ba1;
+color: #FFFFFF;
 background: #303030;
 border-color: #22313a;
-backdrop-filter: blur(5px);
 }
 .system-ui::after {
 border-bottom-color: #2b3942;
