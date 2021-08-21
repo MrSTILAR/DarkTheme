@@ -30,7 +30,7 @@ color: #fff;
 }
 .system-ui {
 color: #FFFFFF;
-background: #303030;
+background: #303030AA;
 border-color: #22313a;
 }
 .system-ui::after {
